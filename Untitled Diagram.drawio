@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T15:16:25.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="y98cJFHWxPRKaZfmMx1i" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T15:27:19.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Iy3uWLK-LfnhQ_vwcmpR" version="14.7.6" type="github">
   <diagram id="NFJbUYjTTj44KyLMSvcf" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="73VceILB5KjBlr0sC1qX-1" value="Development of the mobile app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="280" width="90" height="60" as="geometry" />
+          <mxGeometry x="280" y="210" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="73VceILB5KjBlr0sC1qX-2" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="lozYPO-lufpdqtAhqHGE-5" value="Craete and manage database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="496" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lozYPO-lufpdqtAhqHGE-6" value="Create a map of the school" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

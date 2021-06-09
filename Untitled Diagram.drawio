@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T14:48:35.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="67Oe-iuXoKhO4Kjot0Ds" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T14:52:07.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="kzvY8YUA7ZheWAZL0quN" version="14.7.6" type="github">
   <diagram id="NFJbUYjTTj44KyLMSvcf" name="Page-1">
     <mxGraphModel dx="2274" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="TNsW_N24bn4aeccuZANe-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;More important&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="380" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mnxmqo_nGOZgj40QV_AZ-1" value="Texto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="Mnxmqo_nGOZgj40QV_AZ-1" value="Connections between the Web and mobile app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="80" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
